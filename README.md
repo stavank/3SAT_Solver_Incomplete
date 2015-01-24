@@ -1,4 +1,4 @@
-# 3-SATSolver
+# 3SAT_Solver_Incomplete
 This is an incomplete 3-SAT solver written in C ++ and CUDA C++ using DPLL and random assignment approach.
 
 To run this code, you will need 
